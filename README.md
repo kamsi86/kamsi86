@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kamsi86
-- 👀 I’m interested in ...
+- 👋 Hi, I’m ODILI KAMSIYO
+- 👀 I’m interested in learning and improving my skills
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me with my email kamsiodili@gmail.com
 
 <!---
 kamsi86/kamsi86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
